@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0169-majority-element) |
 | [0410-split-array-largest-sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
