@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -19,6 +20,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -26,6 +28,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +38,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
@@ -49,6 +53,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
@@ -80,6 +85,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
