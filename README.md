@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
