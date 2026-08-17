@@ -20,6 +20,7 @@
 | [0035-search-insert-position](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0633-sum-of-square-numbers](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0050-powx-n) |
+| [0633-sum-of-square-numbers](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0125-valid-palindrome) |
+| [0633-sum-of-square-numbers](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
