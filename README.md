@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0922-sort-array-by-parity-ii](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mirzahammadbaig56/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -44,6 +45,7 @@
 | [0088-merge-sorted-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
@@ -73,6 +75,7 @@
 | [0283-move-zeroes](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0922-sort-array-by-parity-ii](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mirzahammadbaig56/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
