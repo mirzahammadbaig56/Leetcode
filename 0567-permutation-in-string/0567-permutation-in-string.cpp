@@ -4,14 +4,15 @@ public:
         int n = s1.length(), m = s2.length();
         if(n > m) return false;
         vector<int> freq(26, 0);
+        vector<int> slFreq(26, 0);
         for(int i = 0; i < n; i++){
             freq[s1[i] - 'a']++;
+            slFreq[s2[i] - 'a']++;
         }
-        for(int i = 0; i < m - n + 1; i++){
-            vector<int> slFreq(26, 0);
-            for(int j = i; j < i + n; j++){
-                slFreq[s2[j] - 'a']++;
-            }
+        if(freq == slFreq) return true;
+        for(int i = n; i < m; i++){
+            slFreq[s2[i - n] - 'a']--;
+            slFreq[s2[i] - 'a']++;
             if(freq == slFreq) return true;
         }
         return false;
