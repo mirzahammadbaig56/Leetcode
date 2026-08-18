@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -68,6 +69,7 @@
 | [0075-sort-colors](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
