@@ -18,6 +18,7 @@
 | [0645-set-mismatch](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -41,6 +42,7 @@
 | [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Divide and Conquer
 |  |
@@ -56,6 +58,7 @@
 | [0645-set-mismatch](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
@@ -139,4 +142,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0881-boats-to-save-people) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
