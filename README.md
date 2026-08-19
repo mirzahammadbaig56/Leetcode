@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0881-boats-to-save-people](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1386-cinema-seat-allocation](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1386-cinema-seat-allocation) |
