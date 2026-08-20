@@ -21,6 +21,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1441-build-an-array-with-stack-operations](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -139,6 +140,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mirzahammadbaig56/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mirzahammadbaig56/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
