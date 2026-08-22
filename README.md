@@ -81,6 +81,7 @@
 | [0189-rotate-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mirzahammadbaig56/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
