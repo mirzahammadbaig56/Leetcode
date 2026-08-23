@@ -81,6 +81,7 @@
 | [0189-rotate-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1927-sum-game](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mirzahammadbaig56/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -111,6 +112,7 @@
 | [0410-split-array-largest-sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0567-permutation-in-string) |
+| [1927-sum-game](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -164,4 +167,8 @@
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
