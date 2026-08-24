@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0075-sort-colors) |
@@ -56,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0169-majority-element) |
@@ -90,6 +92,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0125-valid-palindrome) |
