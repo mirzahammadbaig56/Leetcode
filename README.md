@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1927-sum-game](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1927-sum-game) |
@@ -176,4 +178,24 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1927-sum-game) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
