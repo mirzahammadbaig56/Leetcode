@@ -80,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0204-count-primes) |
