@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -168,6 +169,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0054-spiral-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mirzahammadbaig56/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -211,6 +213,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1572-matrix-diagonal-sum) |
