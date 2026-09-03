@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -51,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
