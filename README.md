@@ -36,6 +36,7 @@
 | [1470-shuffle-the-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mirzahammadbaig56/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mirzahammadbaig56/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
