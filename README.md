@@ -13,6 +13,7 @@
 | [0054-spiral-matrix](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0136-single-number) |
@@ -161,6 +162,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0645-set-mismatch) |
@@ -236,4 +238,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mirzahammadbaig56/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
